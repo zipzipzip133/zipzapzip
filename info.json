@@ -3,11 +3,11 @@
     "password": "hitam", 
     "statuses": [
         {
-            "memek": "off",  // Status1: Jika "off", bot offline
+            "memek": "off",  // Status1: Jika off, bot offline
             "message": "Status1: Bot sedang dalam perbaikan."
         },
         {
-            "kontol": "on",  // Status2: Jika "on", bot aktif
+            "kontol": "on",  // Status2: Jika on, bot aktif
             "message": "Bot sedang aktif."
         }
     ]
