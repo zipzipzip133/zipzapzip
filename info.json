@@ -1,13 +1,13 @@
 {
-    "bot": "kontol", 
-    "password": "hitam", 
+    "bot": "kontol",
+    "password": "vika",
     "statuses": [
         {
-            "memek": "off",  // Status1: Jika off, bot offline
+            "memek": "off",
             "message": "Status1: Bot sedang dalam perbaikan."
         },
         {
-            "kontol": "on",  // Status2: Jika on, bot aktif
+            "kontol": "on",
             "message": "Bot sedang aktif."
         }
     ]
