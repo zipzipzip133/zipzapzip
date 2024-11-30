@@ -1,12 +1,13 @@
 {
-    "bot": "memek",  // jika bot = "memek", bot akan offline, jika bot = "kontol", bot online
+    "bot": "kontol", 
+    "password": "hitam", 
     "statuses": [
         {
-            "memek": "off",
+            "memek": "off",  // Status1: Jika "off", bot offline
             "message": "Status1: Bot sedang dalam perbaikan."
         },
         {
-            "kontol": "on",
+            "kontol": "on",  // Status2: Jika "on", bot aktif
             "message": "Bot sedang aktif."
         }
     ]
