@@ -1,4 +1,13 @@
 {
-    "status": "off",
-    "message": "Bot sedang perbaikan."
+    "bot": "memek",  // jika bot = "memek", bot akan offline, jika bot = "kontol", bot online
+    "statuses": [
+        {
+            "memek": "off",
+            "message": "Status1: Bot sedang dalam perbaikan."
+        },
+        {
+            "kontol": "on",
+            "message": "Bot sedang aktif."
+        }
+    ]
 }
